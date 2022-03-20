@@ -1,3 +1,10 @@
+ <img
+      width="400"
+      align="right"
+      src="https://media-exp1.licdn.com/dms/image/C5603AQEsFICL9kVUUQ/profile-displayphoto-shrink_800_800/0/1594564425037?e=1653523200&v=beta&t=ALZ0-UPbYQMU_CZxtl8u3kqfv0YstXwzx-GoLlelRWs"
+      alt="Vivekananthan pic"
+    />
+
 <h1><img src=https://emojis.slackmojis.com/emojis/images/1643514120/795/cool.gif?1643514120 width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Vivekananthan, Aspiring Fullstack developer from <img src="https://cdn-icons.flaticon.com/png/512/2163/premium/2163350.png?token=exp=1647800627~hmac=bdebcf554a07c392fbcd48daa79b504a" width="13"/> <b>Salem, Tamil Nadu.</b> 
@@ -33,11 +40,11 @@
 
 ## 😄 Cool Stats
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekananthanG&show_icons=true&theme=radical)
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekananthanG&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivekananthanG&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivekananthanG&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekananthanG&layout=compact&theme=radical&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekananthanG&layout=compact&theme=dark&langs_count=6)
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
