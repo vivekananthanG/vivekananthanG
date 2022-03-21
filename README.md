@@ -7,7 +7,7 @@
 
 <h1><img src=https://emojis.slackmojis.com/emojis/images/1643514120/795/cool.gif?1643514120 width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Vivekananthan, Aspiring Fullstack developer from <img src="https://cdn-icons.flaticon.com/png/512/2163/premium/2163350.png?token=exp=1647800627~hmac=bdebcf554a07c392fbcd48daa79b504a" width="13"/> <b>Salem, Tamil Nadu.</b> 
+<p>Welcome to my page! </br> I'm Vivekananthan, Aspiring Fullstack developer from <img src="https://cdn-icons.flaticon.com/png/512/2163/premium/2163350.png?token=exp=1647800627~hmac=bdebcf554a07c392fbcd48daa79b504a" width="13"/> <b>Chennai, Tamil Nadu.</b> 
 <br/>As a Web Developer, I offer experience, problem-solving abilities, solid communication skills, and updating my self with new cutting edge technologies. Applying critical and creative thinking to challenges, bringing insight and innovative process ideas</p>
 
 ## ⚡ Things I code with
