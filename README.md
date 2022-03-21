@@ -36,7 +36,7 @@
   <img alt="Electron" src="https://img.shields.io/badge/-Electron.js-brightgreen?style=flat-square&logo=Electron&logoColor=white" /> 
 </p>
 
-<img alt="contribution" src="https://github.com/ragavkumarv/ragavkumarv/blob/output/github-contribution-grid-snake.svg" />
+
 
 ## 😄 Cool Stats
 
