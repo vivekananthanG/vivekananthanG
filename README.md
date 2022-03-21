@@ -52,6 +52,9 @@
 <a href="https://www.linkedin.com/in/vivekananthan-g-43b8b4a1/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
 </p>
 
+<a href="https://github.com/vivekananthanG/github-readme-activity-graph"><img alt="Vivekananthan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vivekananthanG&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
 - 👋 Hi, I’m @vivekananthanG
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
