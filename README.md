@@ -1,7 +1,7 @@
  <img
       width="400"
       align="right"
-      src="https://media-exp1.licdn.com/dms/image/C5603AQEsFICL9kVUUQ/profile-displayphoto-shrink_800_800/0/1594564425037?e=1653523200&v=beta&t=ALZ0-UPbYQMU_CZxtl8u3kqfv0YstXwzx-GoLlelRWs"
+      src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif"
       alt="Vivekananthan pic"
     />
 
