@@ -36,8 +36,7 @@
   <img alt="Electron" src="https://img.shields.io/badge/-Electron.js-brightgreen?style=flat-square&logo=Electron&logoColor=white" /> 
 </p>
 
-##Cool contribution graph eating snake gif
-![snake gif](https://github.com/vivekananthanG/vivekananthanG/blob/output/github-contribution-grid-snake.gif)
+<img alt="contribution" src="https://github.com/vivekananthanG/vivekananthanG/blob/output/github-contribution-grid-snake.svg" />
 
 ## 😄 Cool Stats
 
